@@ -10,18 +10,14 @@ image:
   credit: Photo by Danilo Pavone
 ---
 
-O EJIBCE 2015 terá lugar no [Instituto Pedro Nunes (IPN)](https://www.ipn.pt), em Coimbra. Criado por
-iniciativa da Universidade de Coimbra em 1991, o IPN visa promover a inovação e a transferência de
-tecnologia, estabelecendo a ligação entre o meio científico e tecnológico e o tecido produtivo. O
-instituto dispõe de [seis laboratórios](https://www.ipn.pt/laboratorios) próprios de investigação e
-desenvolvimento tecnológico, de uma [incubadora](https://www.ipn.pt/incubadora) e de uma [aceleradora de empresas](https://www.ipn.pt/tecBis).
+O EJIBCE 2017 terá lugar no Departamento de Física da Faculdade de Ciências e Tecnologia da Universidade de Coimbra. Situada no centro de Coimbra, esta localização oferece condições de acesso fáceis e uma atmosfera rica em história e cultura. 
 
 # Como chegar
 
 ## Localização no Mapa
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.7610867329845!2d-8.416470685194067!3d40.19213007719353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd22f996bd1626ef%3A0x62667da29126b7a5!2sINSTITUTO+PEDRO+NUNES!5e0!3m2!1sen!2spt!4v1444930197027" width="650" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDzfEg2WM8Zm7JnOcp0k2hec8q6bnPw3p4&q=R.+Larga,3004-516+Coimbra" width="650" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Transportes Públicos
-Para chegar de transportes públicos ao IPN, proveniente da estação de comboios (Coimbra-B), siga a
-Linha 29 até aos CTT (3 paragens), seguido da Linha 24T até ao Parque do Vale das Flores (7 paragens).
-O percurso tem a duração de cerca de 25 minutos.
+Para chegar de transportes públicos ao Departamento de Física, proveniente da estação de comboios (Coimbra-B), siga a
+Linha 5 até às escadas monumentais. De seguida, suba as mesmas e ande cerca de 100 metros em frente, onde poderá identificar o 
+Departamento de Física.
