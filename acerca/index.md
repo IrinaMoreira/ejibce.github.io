@@ -12,8 +12,8 @@ image:
 
 O Encontro de Jovens Investigadores de Biologia Computacional Estrutural (EJIBCE) tem como objectivo
 reunir a comunidade científica portuguesa nesta área num encontro livre de encargos, de forma a
-proporcionar um espaço de discussão e partilha sem compromissos. Esta terceira edição alimenta-se do
-sucesso das edições anteriores, no Porto e em Lisboa, que reuniram cerca de 60 participantes num total
+proporcionar um espaço de discussão e partilha sem compromissos. Esta quinta edição alimenta-se do
+sucesso das edições anteriores, no Porto e em Lisboa e Coimbra, que reuniram cerca de 60 participantes num total
 de mais de 30 comunicações orais.
 
 ## Missão & Objectivos
